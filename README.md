@@ -26,7 +26,7 @@ Implementation of neural networks from fundamental NumPy operations to CNNs, RNN
 
 Implementation of a fully connected neural network and training pipeline in C++.
 
-`C++` · `CMake` · `Numerical Computing`
+`C++` · `CMake` · `Scientific Computing`
 
 ### Machine Learning Foundations
 
