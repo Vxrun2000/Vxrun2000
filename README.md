@@ -1,7 +1,5 @@
 # Hi, I'm Varun
 
-**M.Sc. Computational Engineering | Machine Learning · Scientific Computing · Optimization**
-
 I am a Computational Engineering master's student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**.
 
 My current work focuses on combining **data mining, design of experiments, experimental data, machine learning, optimization, and image analysis** for data-driven manufacturing research.
