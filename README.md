@@ -2,7 +2,7 @@
 
 **M.Sc. Computational Engineering | Machine Learning · Scientific Computing · Optimization**
 
-I am a Computational Engineering master's student at **Friedrich-Alexander-Universität Erlangen-Nürnberg*.
+I am a Computational Engineering master's student at **Friedrich-Alexander-Universität Erlangen-Nürnberg**.
 
 My current work focuses on combining **experimental data, machine learning, design of experiments, optimization, and image analysis** for data-driven manufacturing research.
 
