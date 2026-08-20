@@ -26,7 +26,7 @@ Implementation of neural networks from fundamental NumPy operations to CNNs, RNN
 
 ### Neural Network in C++
 
-Implementation of a fully connected neural network and training pipeline in C++.
+Implementation of a fully connected neural network and training pipeline in C++ for  number recognition.
 
 `C++` · `CMake` · `Numerical Computing`
 
